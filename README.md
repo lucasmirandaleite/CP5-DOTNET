@@ -80,7 +80,7 @@ O projeto mantém a estrutura de **Clean Architecture** com as seguintes camadas
 7. **Acesse a documentação Swagger**
 
    Abra seu navegador e acesse:  
-   `http://localhost:5001`
+   `http://localhost:5001/index.html`
 
    A interface do Swagger será exibida automaticamente com todos os endpoints da **v1** da API.
 
